@@ -1,0 +1,446 @@
+{
+    "products": [
+        {
+            "type": "item",
+            "name": "Água oxigenada",
+            "price": 1.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Água Sanitária",
+            "price": 5.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Álcool em gel",
+            "price": 1.99,
+            "tags": [
+                "healthy",
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Algodão",
+            "price": 1.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Amaciante",
+            "price": 1.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Arroz",
+            "price": 11.99,
+            "tags": [
+                "food",
+                "healthy"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Açúcar mascavo",
+            "price": 4.99,
+            "tags": [
+                "condiment",
+                "healthy"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Barbeador",
+            "price": 1.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Biscoitos",
+            "price": 2.99,
+            "tags": [
+                "food",
+                "junk"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Café",
+            "price": 4.99,
+            "tags": [
+                "healthy",
+                "grain"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Carré",
+            "price": 20,
+            "tags": [
+                "food",
+                "healthy",
+                "meat"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Condicionador",
+            "price": 1.99,
+            "tags": [
+                "hygiene"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Cotonetes",
+            "price": 1.99,
+            "tags": [
+                "hygiene"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Creme dental",
+            "price": 7.99,
+            "tags": [
+                "hygiene"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Curativos",
+            "price": 1.99,
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Desinfetante",
+            "price": 1.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Desodorante",
+            "price": 11.99,
+            "tags": [
+                "hygiene"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Detergente",
+            "price": 1.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Escova de dente",
+            "price": 21.99,
+            "tags": [
+                "hygiene"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Esparadrapo",
+            "price": 10.99,
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Esponja de aço",
+            "price": 1.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Esponja de pia",
+            "price": 1.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Farinha",
+            "price": 1.99,
+            "tags": [
+                "grain"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Feijão",
+            "price": 9.99,
+            "tags": [
+                "food",
+                "grain",
+                "healthy"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Fermento",
+            "price": 3.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Fio dental",
+            "price": 1.99,
+            "tags": [
+                "hygiene"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Flanelas",
+            "price": 1.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Fósforo",
+            "price": 1.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Gaze",
+            "price": 1.99,
+            "tags": [
+                "health"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Guardanapo de papel",
+            "price": 1.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Inseticida",
+            "price": 1.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Iogurte",
+            "price": 3.89,
+            "tags": [
+                "food",
+                "junk"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Leite",
+            "price": 2.99,
+            "tags": [
+                "healthy",
+                "liquid"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Lustra-móveis",
+            "price": 1.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Luvas plásticas",
+            "price": 1.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Lâmpadas",
+            "price": 1.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Macarrão",
+            "price": 1.89,
+            "tags": [
+                "food",
+                "junk"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Margarina",
+            "price": 7.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Molho de tomate",
+            "price": 0.99,
+            "tags": [
+                "condiment",
+                "food",
+                "healthy"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Ovos",
+            "price": 6.99,
+            "tags": [
+                "food",
+                "healthy"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Óleo",
+            "price": 0.99,
+            "tags": [
+                "condiment"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Papel Alumínio",
+            "price": 1.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Papel Filme",
+            "price": 1.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Papel higiênico",
+            "price": 1.99,
+            "tags": [
+                "hygiene"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Papel toalha",
+            "price": 1.99,
+            "tags": [
+                "others"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Pães",
+            "price": 0.5,
+            "tags": [
+                "food",
+                "junk"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Queijo ralado",
+            "price": 1.99,
+            "tags": [
+                "condiment",
+                "junk"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Sabonete",
+            "price": 1.99,
+            "tags": [
+                "hygiene"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Sabão em barra",
+            "price": 1.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Sabão em pó",
+            "price": 1.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Sacos de lixo",
+            "price": 1.99,
+            "tags": [
+                "cleaning"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Sal",
+            "price": 18.99,
+            "tags": [
+                "condiment",
+                "healthy"
+            ]
+        },
+        {
+            "type": "item",
+            "name": "Shampoo",
+            "price": 1.99,
+            "tags": [
+                "hygiene"
+            ]
+        }
+    ]
+}
